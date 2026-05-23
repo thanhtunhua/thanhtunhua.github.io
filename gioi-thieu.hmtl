@@ -1,1 +1,254 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta name="google-site-verification" content="DI-fHQQBKfaGNvLx4uoNg4TMtZH0DN3I5-n_azX0L68" />
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Thanh Tủ Nhựa</title>
 
+<style>
+body{
+    margin:0;
+    padding:0;
+    background:#4f79b8;
+    font-family:Arial,sans-serif;
+}
+
+.container{
+    max-width:620px;
+    margin:30px auto;
+    background:#fff;
+    border-radius:12px;
+    padding:30px;
+    box-shadow:0 5px 20px rgba(0,0,0,0.15);
+}
+
+.logo{
+    width:120px;
+    height:120px;
+    border-radius:50%;
+    overflow:hidden;
+    margin:-80px auto 20px;
+    border:6px solid #fff;
+    background:#fff;
+    box-shadow:0 5px 15px rgba(0,0,0,0.2);
+}
+
+.logo img{
+    width:100%;
+    height:100%;
+    object-fit:cover;
+}
+
+h1{
+    text-align:center;
+    color:#222;
+    margin-bottom:10px;
+}
+
+.subtitle{
+    text-align:center;
+    color:#555;
+    margin-bottom:30px;
+}
+
+.button{
+    display:block;
+    text-align:center;
+    background:#4f79b8;
+    color:#fff;
+    text-decoration:none;
+    padding:18px;
+    border-radius:8px;
+    font-size:22px;
+    margin-bottom:30px;
+    transition:0.3s;
+}
+
+.button:hover{
+    background:#355b93;
+}
+
+.content{
+    color:#222;
+    line-height:1.8;
+    font-size:18px;
+}
+
+.content a{
+    color:#1a4fa3;
+    word-break:break-word;
+}
+
+.section{
+    margin-top:25px;
+}
+
+.section-title{
+    font-weight:bold;
+    margin-bottom:8px;
+    font-size:20px;
+}
+</style>
+
+</head>
+<body>
+
+<div class="container">
+
+<div class="logo">
+<img src="https://tunhua.io.vn/wp-content/uploads/2025/05/logo-thanh-tu-nhua.png" alt="Thanh Tủ Nhựa">
+</div>
+
+<h1>THANH TỦ NHỰA</h1>
+
+<div class="subtitle">
+Nội thất nhựa Đài Loan cao cấp tại Hà Nội
+</div>
+
+<a class="button" href="https://tunhua.io.vn/" target="_blank">
+🛒 Visit my store
+</a>
+
+<div class="content">
+
+Thanh Tủ Nhựa chuyên cung cấp đóng lắp các sản phẩm:
+<br><br>
+
+<a href="https://tunhua.io.vn/tu-nhua-quan-ao/" target="_blank">
+Tủ nhựa quần áo
+</a> ;
+
+<a href="https://tunhua.io.vn/giuong-ngu-nhua/" target="_blank">
+Giường ngủ nhựa
+</a> ;
+
+<a href="https://tunhua.io.vn/ban-hoc-nhua/" target="_blank">
+Bàn học nhựa
+</a> ;
+
+<a href="https://tunhua.io.vn/ban-lam-viec-nhua/" target="_blank">
+Bàn làm việc nhựa
+</a> ;
+
+<a href="https://tunhua.io.vn/ban-trang-diem-nhua/" target="_blank">
+Bàn trang điểm nhựa
+</a> ;
+
+<a href="https://tunhua.io.vn/ke-nhua-de-do/" target="_blank">
+Kệ nhựa để đồ
+</a> ;
+
+<a href="https://tunhua.io.vn/tu-nhua-giay-dep/" target="_blank">
+Tủ nhựa giày dép
+</a> ;
+
+<a href="https://tunhua.io.vn/tu-bep-nhua/" target="_blank">
+Tủ bếp nhựa
+</a> ;
+
+<a href="https://tunhua.io.vn/tu-lavabo-nhua/" target="_blank">
+Tủ lavabo nhựa
+</a>
+
+<br><br>
+
+Các sản phẩm nhựa cao cấp chống nước, chống mối mọt, thiết kế hiện đại phù hợp chung cư, nhà phố và biệt thự.
+
+<div class="section">
+<div class="section-title">📍 Thông tin liên hệ</div>
+
+Địa chỉ: 165 Cầu Giấy - Hà Nội<br>
+Hotline: 0941.900.779<br>
+Website:
+<a href="https://tunhua.io.vn/" target="_blank">
+https://tunhua.io.vn/
+</a>
+</div>
+
+<div class="section">
+<div class="section-title">🗺️ Google Maps</div>
+
+<a href="https://maps.app.goo.gl/nrwDhwzX2E5gJWU46" target="_blank">
+https://maps.app.goo.gl/nrwDhwzX2E5gJWU46
+</a>
+</div>
+
+<div class="section">
+<div class="section-title">🌐 Social Media</div>
+
+Facebook:
+<a href="https://www.facebook.com/thanhtunhuaio" target="_blank">
+https://www.facebook.com/thanhtunhuaio
+</a>
+
+<br><br>
+
+Youtube:
+<a href="https://www.youtube.com/@ThanhT%E1%BB%A7Nh%E1%BB%B1a" target="_blank">
+https://www.youtube.com/@ThanhT%E1%BB%A7Nh%E1%BB%B1a
+</a>
+
+<br><br>
+
+X:
+<a href="https://x.com/thanhtunhua" target="_blank">
+https://x.com/thanhtunhua
+</a>
+
+<br><br>
+
+Behance:
+<a href="https://www.behance.net/thanhtunhuavn" target="_blank">
+https://www.behance.net/thanhtunhuavn
+</a>
+
+<br><br>
+
+Pinterest:
+<a href="https://www.pinterest.com/thanhtunhuavn/" target="_blank">
+https://www.pinterest.com/thanhtunhuavn/
+</a>
+
+<br><br>
+
+Threads:
+<a href="https://www.threads.com/@thanhtunhuavn" target="_blank">
+https://www.threads.com/@thanhtunhuavn
+</a>
+
+<br><br>
+
+Instagram:
+<a href="https://www.instagram.com/thanhtunhuavn/" target="_blank">
+https://www.instagram.com/thanhtunhuavn/
+</a>
+
+<br><br>
+
+About.me:
+<a href="https://about.me/thanhtunhua" target="_blank">
+https://about.me/thanhtunhua
+</a>
+
+<br><br>
+
+Flipboard:
+<a href="https://flipboard.com/@thanhtunhua" target="_blank">
+https://flipboard.com/@thanhtunhua
+</a>
+
+<br><br>
+
+Bluesky:
+<a href="https://bsky.app/profile/thanhtunhua.bsky.social" target="_blank">
+https://bsky.app/profile/thanhtunhua.bsky.social
+</a>
+
+</div>
+
+</div>
+</div>
+
+</body>
+</html>
